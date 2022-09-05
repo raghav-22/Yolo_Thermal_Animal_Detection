@@ -1,2 +1,6 @@
-# temp-capture
-Temperature of a given person will be identified. Snap shots of persons with high temperature is saved automatically. 
+# YOLOv7-Animal Dection
+this repo is the implementation of yolov7 for animal detection in IR video.
+As a prototype I have trained elephant and lion with IR images 
+further data can be used to imporve the accuracy of this model
+
+
